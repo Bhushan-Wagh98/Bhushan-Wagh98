@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/56001279/169477251-aa2fe072-f757-4b63-a480-58302b3a5df9.gif)](https://github.com/Bhushan-Wagh98)
+[![MasterHead](https://github.com/Bhushan-Wagh98/lybrate/blob/main/project%20images/20220604_160810.jpg)](https://github.com/Bhushan-Wagh98)
 
 <h1 align="center">Hi 👋, I'm Bhushan Wagh</h1>
 <h3 align="center">A Full Stack Developer in the process.</h3>
