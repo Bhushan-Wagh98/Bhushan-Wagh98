@@ -41,6 +41,7 @@
 <a href="https://www.twitter.com/guddu_wagh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Bhushan-Wagh" height="30" width="40" /></a>
 <a href="https://www.instagram.com/guddu_wagh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Bhushan-Wagh" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bwagh5575" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Bhushan-Wagh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bwagh5575" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Bhushan-Wagh" height="30" width="40" /></a>
 </p>
 <br>
 
@@ -64,3 +65,6 @@
 <br/>
 <a href="https://github.com/Bhushan-Wagh98/github-readme-activity-graph"><img alt="Bhushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bhushan-Wagh98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+ </p>
