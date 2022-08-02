@@ -1,5 +1,5 @@
-[![MasterHead](https://github.com/Bhushan-Wagh98/lybrate/blob/main/project%20images/20220604_160810.jpg)](https://github.com/Bhushan-Wagh98)
 
+ [![MasterHead](https://github.com/Bhushan-Wagh98/lybrate/blob/main/project%20images/20220604_160810.jpg)](https://github.com/Bhushan-Wagh98)
 <h1 align="center">Hi 👋, I'm Bhushan Wagh</h1>
 <h3 align="center">A Full Stack Developer in the process.</h3>
 
@@ -13,10 +13,10 @@
 <img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
 </p>
 
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)](https://github.com/Bhushan-Wagh98)
+
 <br/>
 <br/>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
+<img align="right" alt="coding" width="400" height="auto" src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Bhushan-Wagh98&label=Profile%20views&color=0e75b6&style=flat" alt="Bhushan-Wagh" /> </p>
 
@@ -44,7 +44,6 @@
 <a href="https://www.hackerrank.com/bwagh5575" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Bhushan-Wagh" height="30" width="40" /></a>
 </p>
 <br>
-
 <h3 align="left">Languages and Tools:</h3>
 <hr>
   
@@ -58,9 +57,7 @@
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhushan-Wagh98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<p align="center">
-    <a href="https://github.com/Bhushan-Wagh98/github-readme-stats"><img alt="Bhushan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bhushan-Wagh98&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </p>
+
  
 <br/>
 <a href="https://github.com/Bhushan-Wagh98/github-readme-activity-graph"><img alt="Bhushan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bhushan-Wagh98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
