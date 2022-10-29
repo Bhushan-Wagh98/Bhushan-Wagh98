@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **AngularJS**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React & DSA**
 
